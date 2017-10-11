@@ -1,14 +1,15 @@
 ---
-title: API Reference
+title: Cayenne - Thistle Design System
 
 language_tabs:
   - shell
-  - ruby
+  - javascript
   - python
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='http://github.com/tripit/slate'>Documentation Powered by Slate</a>
+  - <a href="https://github.com/thistle" target="_blank" rel="noopener noreferrer">Report An Issue</a>
+  - <a href="http://github.com/tripit/slate" target="_blank" rel="noopener noreferrer">Powered by Slate</a>
+  - <p class="legal">© Thistle 2017</p>
 
 includes:
   - errors
@@ -16,15 +17,19 @@ includes:
 search: true
 ---
 
-# Introduction
+## Principles
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+<img src="https://dl.dropboxusercontent.com/u/95847291/github%20images/slate/slate_screenshot_new.png" width=700 alt="Screenshot of Example Documentation created with Slate">
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+## Colors
 
-This example API documentation page was created with [Slate](http://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+All of these colors are included in the document colors section when you select the color picker in sketch.
 
-# Authentication
+## Emails
+
+## SASS
+
+
 
 > To authorize, use this code:
 
@@ -165,4 +170,3 @@ This endpoint retrieves a specific kitten.
 Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to retrieve
-
