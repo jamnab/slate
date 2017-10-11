@@ -3,8 +3,7 @@ Thistle Docs
 
 This repo is based on the Slate API documentation project. [tripit.github.io/slate](http://tripit.github.io/slate).*
 
-Getting Started with Slate
-------------------------------
+## Getting Started
 
 ### Prerequisites
 
@@ -25,8 +24,7 @@ You're going to need:
 You can now see the docs at <http://localhost:4567>.
 
 
-Adding to the Doc
-------------------------------
+## Adding to the Doc
 
 The main markdown for editing the docs is located in source/index.md
 
